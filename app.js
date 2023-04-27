@@ -15,7 +15,12 @@ function initApp() {
   console.log("hello world");
   logsGalore();
   data();
+  html()
+}
 
+function html() {
+    /*html*/`dsgsd`
+    console.log("HELll");
 }
 
 function logsGalore() {
