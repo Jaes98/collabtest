@@ -16,7 +16,8 @@ function initApp() {
   logsGalore();
   data();
   html()
-  console.log("comit 1 b person")
+  console.log("commit 1 b person")
+  console.log("commit 2 b person")
 }
 
   console.log("hello rasmus");
