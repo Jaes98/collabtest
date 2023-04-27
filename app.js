@@ -15,4 +15,12 @@ function initApp() {
   console.log("Mit navn er jacob");
   console.log("Mit navn er jacob");
   console.log("Mit navn er jacob");
+
+}
+
+
+function data() {
+    const Arr = [0,3,2,1,2]
+
+    console.log(Arr)
 }
