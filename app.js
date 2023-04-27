@@ -12,5 +12,10 @@ function initApp() {
   console.log("hello world");
   console.log("hello world");
   console.log("hello world");
-  
+  logsGalore();
+
+}
+
+function logsGalore() {
+    console.log("race");
 }
