@@ -12,4 +12,7 @@ function initApp() {
   console.log("Mit navn er jacob");
 
   console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
 }
