@@ -16,6 +16,9 @@ function initApp() {
   logsGalore();
   data();
 
+  console.log("hello rasmus");
+  console.log("hello peter");
+
 }
 
 function logsGalore() {
