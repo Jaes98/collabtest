@@ -13,6 +13,7 @@ function initApp() {
   console.log("hello world");
   console.log("hello world");
   console.log("hello world");
+  console.log("hello");
   logsGalore();
   data();
   html()
