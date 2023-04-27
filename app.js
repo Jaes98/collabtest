@@ -40,3 +40,4 @@ function data() {
 
     console.log(Arr)
 }
+console.log("commit 1 b person")
