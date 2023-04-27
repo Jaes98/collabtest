@@ -14,6 +14,7 @@ function initApp() {
   console.log("hello world");
   console.log("hello world");
   console.log("hello");
+  console.log("hellohello");
   logsGalore();
   data();
   html()
