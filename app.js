@@ -41,3 +41,4 @@ function data() {
     console.log(Arr)
 }
 console.log("hell");
+console.log("hello");
