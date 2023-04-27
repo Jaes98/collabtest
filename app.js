@@ -9,15 +9,24 @@ function initApp() {
 
   console.log("Mit navn er jacob");
 
-  console.log("Mit navn er jacob");
-
-  console.log("Mit navn er jacob");
-  console.log("Mit navn er jacob");
-  console.log("Mit navn er jacob");
-  console.log("Mit navn er jacob");
+  console.log("hello world");
+  console.log("hello world");
+  console.log("hello world");
+  console.log("hello world");
+  logsGalore();
 
 }
 
+function logsGalore() {
+    console.log("race");
+}
+
+  console.log("Mit navn er jacob");
+
+  console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
+  console.log("Mit navn er jacob");
 
 function data() {
     const Arr = [0,3,2,1,2]
