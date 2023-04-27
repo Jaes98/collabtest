@@ -8,4 +8,8 @@ function initApp() {
   console.log("hello Marcus");
 
   console.log("Mit navn er jacob");
+
+  console.log("Mit navn er jacob");
+
+  console.log("Mit navn er jacob");
 }
