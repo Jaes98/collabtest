@@ -15,10 +15,15 @@ function initApp() {
   console.log("hello world");
   logsGalore();
   data();
+  html()
+}
 
   console.log("hello rasmus");
   console.log("hello peter");
 
+function html() {
+    /*html*/`dsgsd`
+    console.log("HELll");
 }
 
 function logsGalore() {
