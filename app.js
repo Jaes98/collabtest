@@ -40,5 +40,8 @@ function data() {
 
     console.log(Arr)
 }
+console.log("hell");
+console.log("hello");
+console.log("hemlo");
 console.log("commit 1 b person")
 console.log("commit 2 b person")
