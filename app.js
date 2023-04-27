@@ -16,6 +16,7 @@ function initApp() {
   logsGalore();
   data();
   html()
+  console.log("comit 1 b person")
 }
 
   console.log("hello rasmus");
